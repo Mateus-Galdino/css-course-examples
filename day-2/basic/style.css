@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    background-color:#ffad25;
+}
+
+h1,h2,h3{
+    font-family: "Work Sans",sans-serif;
+}
+
+h1,.h1{
+    font-size: 40px;
+}
+
+h2,.h2{
+    font-size: 30px;
+}
+
+h3,.h3{
+    font-size: 20px;
+}
+
+label,.label{
+    font-size: 14px;
+}
+
+button{
+    font-family: "Work Sans",sans-serif ;
+    font-size: 16px;
+    padding: 20px;
+    background-color: #ffad25;
+    color: #fff;
+    border-radius: 4px;
+    border: 1px solid #ffad25;
+    cursor:pointer
+}
+
+button:hover{
+    background-color: #ffad25;
+}
+
+button:active{
+    background-color: #ffad25;
+}
+
+button:focus{
+    outline:none
+}
+
+button:hover:disabled,
+button:disabled{
+    background-color: #ffad25;
+    opacity: 8.5;
+    cursor: initial;
+}
+
+button.large{
+    padding: 10px 24px;
+}
+
+section{
+    padding: 16px;
+    background-color: #fff;
+    border:1px solid #999;
+    border-radius: 8px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+    box-shadow: 10px 10px 41px 0px rgba(0,0,0,0.75);
+}
