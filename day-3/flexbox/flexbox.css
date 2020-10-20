@@ -5,7 +5,6 @@ body {
 
 
 .container {
-<<<<<<< HEAD
     border: 10px solid purple;
     height: 100vh;
     display:flex;
@@ -21,16 +20,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-=======
-  border: 1px solid red;
-  display: flex;
-  justify-content: stretch;
-}
-
-.box {
-  min-width: 300px;
-  min-height: 300px;
->>>>>>> 49df43d3d47b86f96fc91c5609ba980a404370cb
 }
 
 .red {

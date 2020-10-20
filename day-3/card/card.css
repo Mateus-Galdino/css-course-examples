@@ -3,7 +3,6 @@ body {
 }
 
 .card {
-<<<<<<< HEAD
     background-color: #FFFFFF;
     font-family: 'Work Sans', sans-serif;
     width: 300px;
@@ -21,18 +20,6 @@ body {
     width: fit-content;
     border: brown ;
     padding: 4px 8px;
-=======
-  background-color: #ffffff;
-  font-family: "Work Sans", sans-serif;
-  width: 300px;
-  height: 300px;
-  padding: 30px;
-}
-
-.tag {
-  background-color: #9999ff;
-  border-radius: 12px;
->>>>>>> 49df43d3d47b86f96fc91c5609ba980a404370cb
 }
 
 .circle {
@@ -54,7 +41,6 @@ body {
 }
 
 .module {
-<<<<<<< HEAD
     color: #5555FF;
     font-size: 1.2rem;
     font-weight: bold;
@@ -68,9 +54,3 @@ body {
     display: flex;
     flex-direction: column;
 }
-=======
-  color: #5555ff;
-  font-size: 1.2rem;
-  font-weight: bold;
-}
->>>>>>> 49df43d3d47b86f96fc91c5609ba980a404370cb
