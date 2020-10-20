@@ -1,0 +1,76 @@
+body {
+  background-color: #eee;
+}
+
+.card {
+<<<<<<< HEAD
+    background-color: #FFFFFF;
+    font-family: 'Work Sans', sans-serif;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}   
+
+.tag {
+    background-color: #9999FF;
+    border-radius: 12px;
+    display: flex;
+    width: fit-content;
+    border: brown ;
+    padding: 4px 8px;
+=======
+  background-color: #ffffff;
+  font-family: "Work Sans", sans-serif;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+}
+
+.tag {
+  background-color: #9999ff;
+  border-radius: 12px;
+>>>>>>> 49df43d3d47b86f96fc91c5609ba980a404370cb
+}
+
+.circle {
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background-color: #5555ff;
+}
+
+.course {
+  color: #ffffff;
+  margin: auto 20px;
+}
+
+.icon {
+  font-size: 50px;
+  margin-right: 20px;
+  color: #5555ff;
+}
+
+.module {
+<<<<<<< HEAD
+    color: #5555FF;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.module-wrapper{
+    display: flex;
+}
+
+.infos{
+    display: flex;
+    flex-direction: column;
+}
+=======
+  color: #5555ff;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+>>>>>>> 49df43d3d47b86f96fc91c5609ba980a404370cb
